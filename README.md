@@ -1,5 +1,10 @@
 - 👋 Hi, I’m @XiaoBai1103
 - 📫 Welcome to visit my blog：https://xiaobai1103.cn
+一个什么都不会的小白，还在努力学习中...
+#我的兴趣：
+嵌入式：Arduino、STM32、8051
+电路：喜欢自己做着玩，目前只会弄一些简单的电路
+Web前端：自学的，属于离入门还差很久的那种...
 
 
 <!---
